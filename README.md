@@ -1,2 +1,2 @@
-# kimshin
+# kimshin.io
 법인
